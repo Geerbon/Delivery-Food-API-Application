@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\DelFood\\DelFood.Web\\DelFood.Web.csproj": {}
+    "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\DelFood.Web.csproj": {}
   },
   "projects": {
-    "E:\\Work\\DelFood\\DelFood.Web\\DelFood.Web.csproj": {
+    "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\DelFood.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\DelFood\\DelFood.Web\\DelFood.Web.csproj",
+        "projectUniqueName": "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\DelFood.Web.csproj",
         "projectName": "DelFood.Web",
-        "projectPath": "E:\\Work\\DelFood\\DelFood.Web\\DelFood.Web.csproj",
+        "projectPath": "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\DelFood.Web.csproj",
         "packagesPath": "C:\\Users\\ALIAKSANDR\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\DelFood\\DelFood.Web\\obj\\",
+        "outputPath": "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kbe4ThrkhE9HcdRpnD1/Xlar+xrH/HDUnAiBqWRUzp4tciwQbRcYPlpnn88qB/QshjQVnhmoNVSSRa1pQPckug==",
+  "dgSpecHash": "PFSNWzW1gsp2BG7RYjR1gjhWLaOhIJbmtFCkg0mHfuPVCmGrfYMXvQTf5bREub/MqMrK0KQjzUS/cSCE/KIlHQ==",
   "success": true,
-  "projectFilePath": "E:\\Work\\DelFood\\DelFood.Web\\DelFood.Web.csproj",
+  "projectFilePath": "E:\\Work\\Delivery-Food-API-Application\\DelFood.Web\\DelFood.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALIAKSANDR\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ALIAKSANDR\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
