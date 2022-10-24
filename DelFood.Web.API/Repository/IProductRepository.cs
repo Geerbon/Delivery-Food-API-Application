@@ -1,4 +1,4 @@
-﻿using DelFood.Web.ProductAPI.Models.Dto;
+﻿using DelFood.Web.ProductAPI.Models;
 
 namespace DelFood.Web.ProductAPI.Repository
 {

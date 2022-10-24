@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{97CCE29E-9EBA-41A6-8E8B-3646DEFCA422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelFood.Web", "DelFood.Web\DelFood.Web.csproj", "{26DD99C1-D19E-4117-B5EF-E732319672CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelFood.Web", "DelFood.Web\DelFood.Web.csproj", "{26DD99C1-D19E-4117-B5EF-E732319672CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A2017FC6-E003-40DD-9F28-A95BCEEB2418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelFood.Web.ProductAPI", "DelFood.Web.API\DelFood.Web.ProductAPI.csproj", "{C478F294-5760-4040-9A50-8FD38D817591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelFood.Web.ProductAPI", "DelFood.Web.API\DelFood.Web.ProductAPI.csproj", "{C478F294-5760-4040-9A50-8FD38D817591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

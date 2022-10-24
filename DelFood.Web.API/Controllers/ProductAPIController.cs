@@ -1,4 +1,5 @@
-﻿using DelFood.Web.ProductAPI.Models.Dto;
+﻿using DelFood.Web.ProductAPI.Models;
+using DelFood.Web.ProductAPI.Models.Dto;
 using DelFood.Web.ProductAPI.Repository;
 using Microsoft.AspNetCore.Mvc;
 
